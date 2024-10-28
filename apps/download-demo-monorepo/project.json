@@ -1,0 +1,9 @@
+{
+  "name": "download-demo-monorepo",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/download-demo-monorepo/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project download-demo-monorepo --web",
+  "targets": {}
+}
